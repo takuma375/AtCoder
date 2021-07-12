@@ -13,6 +13,6 @@ while True:
     elif op == "*":
         print(a*b)
     elif op == "/" and b != 0:
-        print(a/b)
+        print(a//b)
     elif op == "?":
         break
